@@ -21,5 +21,5 @@ I have a background in Pharmaceutical Economics & Policy and specialize in healt
 📉 Statistical Tools: SPSS, SAS, R (basic)  
 
 🔗 Let’s Connect! 
-📬 [prabodhsankhe@outlook.com] | 🌐 [https://www.linkedin.com/in/prabodhsankhe/] | 🏆 [GitHub Portfolio]  
+📬 [prabodhsankhe@outlook.com] | 🌐 [https://www.linkedin.com/in/prabodhsankhe/] | 🏆 [[GitHub Portfolio](https://github.com/prabodhsankhe)]  
 
