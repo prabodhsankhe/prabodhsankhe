@@ -1,7 +1,7 @@
 👋 Hi, I'm Prabodh Prajan Sankhe*
 
 🔬 About Me  
-I have a background in Pharmaceutical Economics & Policy and specialize in **healthcare data analytics, economic modeling, and epidemiological research. My experience spans meta-analysis, survival analysis, and predictive modeling, helping to drive data-driven decision-making in healthcare.  
+I have a background in Pharmaceutical Economics & Policy and specialize in healthcare data analytics, economic modeling, and epidemiological research. My experience spans meta-analysis, survival analysis, and predictive modeling, helping to drive data-driven decision-making in healthcare.  
 
 💼 Experience  
 - 📊 Data Science Intern @ Broad Street Institute – Built regression models and analyzed healthcare claims data  
