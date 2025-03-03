@@ -16,7 +16,7 @@ I have a background in Pharmaceutical Economics & Policy and specialize in healt
 - Real-world data (RWD) analysis using **ICD-10 coding & claims data**  
 
  🛠️ Tech Stack  
-💾 Programming:** SAS, SQL, VBA  
+💾 Programming: SAS, SQL, VBA  
 📊 Data Visualization: Tableau, Excel, Data Wrapper  
 📉 Statistical Tools: SPSS, SAS, R (basic)  
 
